@@ -1,6 +1,6 @@
+#For: https://www.arealme.com/reaction-test/zh/
 import numpy as np
 import cv2
-#For: https://www.arealme.com/reaction-test/zh/
 from PIL import ImageGrab
 import win32api, win32con
 from time import time as timer
